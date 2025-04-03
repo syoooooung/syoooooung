@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seyoung's%20git%20Welcome%20syoooooung%20%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seyoung's%20git%20%F0%9F%A4%97)
 <!--
 ### :seedling: Studying
 
