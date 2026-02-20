@@ -50,10 +50,11 @@
 
 <br/>
 
-
 <br/>
 
 ## 📊 GitHub Stats
+
+![GitHub stats](github-readme-stats-syoooooung.vercel.app/api?username=syoooooung)
 
 <div align="center">
 
