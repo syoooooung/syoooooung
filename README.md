@@ -54,20 +54,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](github-readme-stats-syoooooung.vercel.app/api?username=syoooooung)
-
 <div align="center">
 
+<img src="https://github-readme-stats-syoooooung.vercel.app/api?username=syoooooung&show_icons=true&theme=radical&hide_border=true" height="165"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats-syoooooung.vercel.app/api/top-langs/?username=syoooooung&layout=compact&theme=radical&hide_border=true" height="165"/>
 
+<br/><br/><br/>
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syoooooung&show_icons=true&theme=transparent) |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syoooooung&layout=compact&theme=tokyonight) |
-| --- | --- | --- |
-
-
-
-
-[![Solved.ac
-syoung82](http://mazassumnida.wtf/api/generate_badge?boj=syoung82)](https://solved.ac/syoung82)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syoung82)](https://solved.ac/syoung82)
 
 </div>
 
